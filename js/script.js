@@ -49,8 +49,8 @@ $(function () {
     nav: true,
     center: true,
     dots: true,
-    navText: ['<img src="/img/icon-button-arrow.png" alt="" width="43">',
-      '<img src="/img/icon-button-arrow.png" alt="" width="43">'
+    navText: ['<img src="../img/icon-button-arrow.png" alt="" width="43">',
+      '<img src="../img/icon-button-arrow.png" alt="" width="43">'
     ],
     responsive: {
       0: {
